@@ -1,0 +1,86 @@
+{
+    "_id": "60d1b660-4af9-4484-84bf-31ddfc307d70",
+    "_rev": "3-db6c11d88cc0ca99e90256c70aa6da83",
+    "created": 1582825150448,
+    "modified": 1582825150013,
+    "author": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+    "responsible": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+    "codes": [],
+    "tags": [
+        {
+            "code": "15",
+            "type": "templateVersion"
+        },
+        {
+            "code": "lettre-liaison",
+            "type": "templateGuid"
+        }
+    ],
+    "secretForeignKeys": [
+        "13f3f3d6-62cc-4b7b-8b7e-b626ae366f1f"
+    ],
+    "cryptedForeignKeys": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "74ff1da8d636d31bae1c73d8f71271ae6980ab11f55c7442182a6fca875705d046b841224299e9216d3d7eb429c3e29e3294c864d55fe971ba89691fda776355c75a967430084ce9cbee98f5c9c6659e5a4e02209f61976f0017102f52e32d2b"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "ed46c97ce46e2c967e541840854cfec396dad06d06f377c93f77b323116fa5e6fc0f7714456d9497207cd43f8d38afd5a857394c39a2b74846fee36316e7163fda53db169afd6076abedc62e0a9d28962b04ed6cce2689123f11265e3060ff4b"
+            }
+        ]
+    },
+    "delegations": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "183af583f3b395db5b08c054b3c9c9b222cc169f4cdfbb3f8eb04f25dcee3d3f179b36fbecca440f1515f46e2f2da84d3bfa9d5643895f36beaef3ff2ac6aa7be6498db1b43d460d4dc921509bac1512bfe156d6bcb179bce736c3e97cc237d7"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "eeccf56aa6e9842e9abc4941ae025e3e647594afa55e6624964fce5c321be9d50112f90a0c0d60443b2c3ba97b9efd9092ce53288257c56eb6820adf13e645163cdc183739c6807523618cff06d09a88aa3432a85ef235f35c92c6578b30fb98"
+            }
+        ]
+    },
+    "encryptionKeys": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "2482536478337e5f66b56fef95f3453daf084364b80b87de70095c85ca70e01413b972070c4e83e142e0154f9fa3afe5bfedd30c90a335bd424340204bf0d983e2d38630630ceb7fc1e922b50d5aba697c4962f8e6de562d2d20a39e608293e6"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "05e82f0e3e5562c2f29ef20451331e22f17d581132132b572a9e1bc94160cb654bfdfb98e7eadd91a47f9f528e7e3319d8700589dd6e941c8af35b575379dfa5a6e650b8d329f776c6e65d6cda52e857508dc650d82fd044af2baff0fcf5b0ce"
+            }
+        ]
+    },
+    "attachmentId": "bc2e1d6106bbbaa4febb5b178733f88a8d16e953a20fe4e992ec965e4fb0e702",
+    "documentType": "report",
+    "mainUti": "com.adobe.pdf",
+    "name": "2020-02-27-lettre-de-liaison-avis-confrere-consoeur-uitgaand-document-1582825146498.pdf",
+    "otherUtis": [],
+    "java_type": "org.taktik.icure.entities.Document",
+    "rev_history": {},
+    "_attachments": {
+        "bc2e1d6106bbbaa4febb5b178733f88a8d16e953a20fe4e992ec965e4fb0e702": {
+            "content_type": "application/pdf",
+            "revpos": 3,
+            "digest": "md5-BoqKZO8y3bWL+i1FdV29EQ==",
+            "length": 97104,
+            "stub": true
+        }
+    }
+}
