@@ -1,0 +1,107 @@
+{
+    "_id": "b9985a03-3656-4873-9b98-d8ccff3da7f0",
+    "_rev": "2-637c5897307984e6a0bfa8fb4ffc88b6",
+    "created": 1577085098676,
+    "modified": 1577085166434,
+    "author": "3da5c99c-b5b1-43f5-ba69-b96449613ab1",
+    "responsible": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+    "codes": [],
+    "tags": [
+        {
+            "code": "1",
+            "type": "BE-CONTACT-TYPE",
+            "version": "1"
+        }
+    ],
+    "secretForeignKeys": [
+        "e84e2df1-8348-4e99-80e5-0537b5bab4f8"
+    ],
+    "cryptedForeignKeys": {
+        "decf7fe2-04d2-463f-92e1-442a89d7d55e": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "key": "9e81c24c2c113743c4232910673e481826b779cc1bebef5a99c7f87dd1ef7e5499015a543b9e9ebe13b222a5d289a91478a4fe6b3dc484de37f06f011dbd59d281442466293137d142daf1518a6f2e9aca5193dbdceb7594f5222ff503a3d921"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "2bf162c7605a2c4b726a5300fa4bef2bc4a66e0df84abe92f35a07776629a9c97d7b59e0585d87a2de08a7a362d217c94550e3f7344fec377444b545f05caf02a570564075e7e27bd0e82633405a3bdbd5f32ae89ef2f9b6c14a40d0f85c0265"
+            }
+        ]
+    },
+    "delegations": {
+        "decf7fe2-04d2-463f-92e1-442a89d7d55e": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "key": "1d37037b3d5498ccf59e12be2988e9bff7e45cfc22d1d50451272ce80b37590fb1c7d4e57c8059165de78b2b0399f6e6a4dab87518030d1e8483ffc56f56d0d042ae8e9706a4f20bd466237af2bc1115edfd26b33a01572b6c2235a1c8f184e8"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "7bc1f8e0b2beb0768fe4bbd1ae2ae49a49a7c02b50b5310f9d94cb3a2209b014eaad83757909706533ca0d4fc9cdbb380f027401aae4cdc3a0c01ccf57da72b23ec8ed322ba36f475aaa40f6b491cd81122f0c044f3e9d4368a3e327d70f5732"
+            }
+        ]
+    },
+    "encryptionKeys": {
+        "decf7fe2-04d2-463f-92e1-442a89d7d55e": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "key": "5ccdad2d5fce5187da16238220cc89a0cb0e5da44ba81b8ef7c6c3750fba23d233183c66aaa6eaaae1a3c4d071c45082cd84268b42af38595e103ee2703b7ff21b35f280ffd8a45d021771f14f2b1303d8332ac26052a39511493e263f347e7d"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "67332cfd6b406fdfa24f9c941ff5221339a6c06861781445b7e6cfe2432dc80a18292d72176da4b244c888cec0e17c21e9ffedc9667653b83e91885dcf862dbae00c01208b0dbec402132af1dfae85b137fa32a68d827150372eba5a87654264"
+            }
+        ]
+    },
+    "encryptedSelf": "Dz2PIoiXiDtvxLhAW8rEocpkWOjiVr8dohTrt5AG0EY=",
+    "groupId": "70d71c8a-6cee-4f06-b650-030d80f86e41",
+    "openingDate": 20191223081138,
+    "subContacts": [
+        {
+            "status": 64,
+            "codes": [],
+            "tags": [],
+            "services": [
+                {
+                    "serviceId": "0823358e-10e7-47b8-9da7-f1ccf517ba16"
+                }
+            ]
+        }
+    ],
+    "services": [
+        {
+            "label": "imported document",
+            "index": 2,
+            "textIndexes": {},
+            "valueDate": 20191223081244,
+            "created": 1577055600000,
+            "modified": 1577085164167,
+            "author": "3da5c99c-b5b1-43f5-ba69-b96449613ab1",
+            "responsible": "decf7fe2-04d2-463f-92e1-442a89d7d55e",
+            "comment": "NxfDqsKjw4XCssOBw7DCscOzw5I+ecOGwqPDmWAdwpTCi8OKT8O/BFN/w7nDjXHDjCfDqg==",
+            "invoicingCodes": [],
+            "codes": [],
+            "tags": [
+                {
+                    "code": "contactreport",
+                    "type": "CD-TRANSACTION"
+                }
+            ],
+            "encryptedSelf": "m0dj7q7BrIaZbgJJoiarykcXFrGLgVlwYt57KvYhD86clniIo7AqvkOdgX0fA8IoWB4YPh6jjtprGsWBkrLBAqMxA+yi6+1Iw6EhC5S8gzrJBic9p+2ZjyHBnuTHrNPVZ1dNuJqWL3NqU6myugEtLaE2TqFp6ahv4mmJ4qQOs1E=",
+            "_id": "0823358e-10e7-47b8-9da7-f1ccf517ba16"
+        }
+    ],
+    "java_type": "org.taktik.icure.entities.Contact",
+    "rev_history": {}
+}

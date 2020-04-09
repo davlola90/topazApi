@@ -1,0 +1,102 @@
+{
+    "_id": "4b713a47-07a2-4e19-a11a-485fed767ab9",
+    "_rev": "8-896042dfdf7f686e17bad5bf7bd37c79",
+    "created": 1575973960630,
+    "modified": 1583741536079,
+    "author": "d82291df-2be4-459c-b57e-71ea5cf9e35a",
+    "responsible": "80ae6710-356e-4605-a98c-22966139d015",
+    "codes": [],
+    "tags": [
+        {
+            "code": "1",
+            "type": "BE-CONTACT-TYPE",
+            "version": "1"
+        }
+    ],
+    "secretForeignKeys": [
+        "e84e2df1-8348-4e99-80e5-0537b5bab4f8"
+    ],
+    "cryptedForeignKeys": {
+        "80ae6710-356e-4605-a98c-22966139d015": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "80ae6710-356e-4605-a98c-22966139d015",
+                "key": "d1e7ff2f5ef11a58cc8648b4e870fc699b9f966596b3ee9e451ebc95102d4e3bb902610de905bc515f4e3c0c4884f14866a04598d87ea642904258e01635c0d66dce248a6ce768f254ebf8d084a751370ddfa6c6e6d98fa99374e2cf2fe483da"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "aba72c69c5b45e5c21e3a16f283dfa9a15d4ee72f8104b876f174b268fc3322dce2efb675e9a26c25108bc1bfc2c5aa5e2c95aad7c9c61b669133d7e5d27b0cb8840b9f56dcbc804759a3b47c10fc5ae340d1f57ff6c4c942a48721434491481"
+            }
+        ]
+    },
+    "delegations": {
+        "80ae6710-356e-4605-a98c-22966139d015": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "80ae6710-356e-4605-a98c-22966139d015",
+                "key": "d8f07fda0ca4c3e5a20e33de81813889900e310665c3aaea995bc8e1caf2c1d51490186a49304a1d92ee33bcbc40dddc2fa71f84e01424a37393aeec2676e7157b69e83b0eb9e4560b9391a200fddf7e6d0ab2f71cd4cd0dd0c7d8b71a744269"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "f598ac24dabc6aa6adf9228f125e044bf9ebeb93a83291b44744a04fa3212f21a75ce4fc72a25395dd292243a48d5f6f7363f06a9a04b3fa2aa54e3bd8bf4b311f426a845fcb4f5d8f6b396a534972850083d54405cd5895e581eb3c721ab82e"
+            }
+        ]
+    },
+    "encryptionKeys": {
+        "80ae6710-356e-4605-a98c-22966139d015": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "80ae6710-356e-4605-a98c-22966139d015",
+                "key": "6040e377ef8c8ef47f5fbd2950bf044228fd3b0ba706ff2f8664d37bea120300a0ebbc34ee70232c3d3ee4db4563e85f5a7c119dab3978143ea2bf855c2373d56c8e8f4d10a03f56ad1d751704f1a8fdf2be65bf3788bdf769f146a480dd5b1b"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "4ea750c6f69bd910548ac521686d7f95c5a38bd1b4654b45244c27fd002b680381290659c63cd05861a6fdd129096c79d59b25ca0313c1c1c75fc4d393c79228209669f3b3cde161c3337d3acbec33bd6a19ffa3543ced1a5f4d8300a547ff0e"
+            }
+        ]
+    },
+    "encryptedSelf": "cpoH7u6QN7XDC0yoOxM6uHxK5Gm9EHbWbJ0ICHEvgSg=",
+    "groupId": "fe726ddd-029a-4dbf-a13b-d6571d52c593",
+    "openingDate": 20191210113240,
+    "closingDate": 20200309091221,
+    "subContacts": [
+        {
+            "codes": [],
+            "tags": [],
+            "formId": "61d69b0e-50d0-44aa-8804-1c25f832ed85",
+            "services": [
+                {
+                    "serviceId": "bc1672cd-ee60-4047-a16e-ec546cc4cef4"
+                }
+            ]
+        }
+    ],
+    "services": [
+        {
+            "label": "PageBlanche",
+            "index": 2,
+            "textIndexes": {},
+            "valueDate": 20191210113646,
+            "created": 1575974206477,
+            "modified": 1575974206477,
+            "author": "d82291df-2be4-459c-b57e-71ea5cf9e35a",
+            "responsible": "80ae6710-356e-4605-a98c-22966139d015",
+            "invoicingCodes": [],
+            "codes": [],
+            "tags": [],
+            "encryptedSelf": "+sl0JJrwsq/UgEZXuMMMD7xqpq5YHTQrk1zfqTA07j8hcXJvSD63ULRXvJSUtirlsFBgdeU6ewsr+KpcwTDaH6bH0bN0zXVDukQpcxdPHdT8bcF+otkcVZvCA7OQaYAO6rbcr5xxJg90Yk2jmkKj2+9hPSs+aoePnhsr6lzwaPhYqpz7HpZlzzYbbUvjtRV+UfDgNSUooQFTXw5hIhzZHE0+bwE0XbPwnCrD8seZmqw8ywu0SA5+r5e2xjg7GrVZ",
+            "_id": "bc1672cd-ee60-4047-a16e-ec546cc4cef4"
+        }
+    ],
+    "java_type": "org.taktik.icure.entities.Contact",
+    "rev_history": {}
+}

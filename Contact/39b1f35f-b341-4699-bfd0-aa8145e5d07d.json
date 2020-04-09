@@ -1,0 +1,117 @@
+{
+    "_id": "39b1f35f-b341-4699-bfd0-aa8145e5d07d",
+    "_rev": "3-398c2681234582193ce0ace3a5fd526b",
+    "created": 1582824633811,
+    "modified": 1583668988458,
+    "author": "64c54543-2bba-464d-8545-432bba064db9",
+    "responsible": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+    "encryptedSelf": "tFKSsAjzd5I4CEv8KhIbVRyze51k16jHejujhuuakGU=",
+    "codes": [],
+    "tags": [
+        {
+            "code": "1",
+            "type": "BE-CONTACT-TYPE",
+            "version": "1"
+        }
+    ],
+    "secretForeignKeys": [
+        "e84e2df1-8348-4e99-80e5-0537b5bab4f8"
+    ],
+    "cryptedForeignKeys": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "fcb7ae7e822e6d0cc09bd1caf9a8997094793ed9553fa1e9732a51cb60ab84363a6a92ee85726b654a3c5e4339e56b4211c499544cf50fbb6f64bf5a0c782eca2ce9ba215ff22261ee4b042b8007a0ea6867ad5be490e4bb4feff308b56cd54d"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "7a2bbaa03546f868f1ba6b3b472d808e92bc268e20f791145bec3c12cea9941a51f93ed45869ba1f975e7cff43b5e9b98554f3778bcae66638839b3c51e06f5a4f54e3f91a84bb0a0a7a1ac95eddcfaac84b606779eb6197c019fe4a8d5cefd5"
+            }
+        ]
+    },
+    "delegations": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "129d47afc3771e30e59878a74a788e6f49a23eed5ec1eb627b7ceb63e8ffb016ef39c505223e5ac03e6343d2e44fe22fae380a8aa58311963cb2f82908acafa34c17bc09869fe0e1a8b4c521c55b498048b4901287097bb9c91899b676d67813"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "6b7e52123318f15a01c12b7c9857500b154ec07e4a16b59dfcf2fccf941de6e7d50109826afe67961ccea80bda9c24f7116eeb9e4a40bef03db864107247cedebe18d0cc43124d7ecb39be5a6506926443c0672491f7524618249b60ff92083e"
+            }
+        ]
+    },
+    "encryptionKeys": {
+        "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "key": "5060ffd84750302a734695aeee9e2de1c5d9996b7010acd7acbfc1f51fdaac2b94508ee2346b0b9e91a1cb7e5f1998246107948bb6ecbc032b026a10638a7c80c46ee23b35b87165927d7dfae9c8e0508981cce922878d475fc803b8982d3060"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "65b3556afb30aab2e54e5ba06a84ee57eb8f4b05359420a8a922b3ab81c8606df9a12804d74220229a4163c0d06866932a15b0cf31407b91148d34d39a9768b00637eb5662ec40e27bd5b484adeb1bfeb818a50fb9b091e8c8d3eabf9fe5aa05"
+            }
+        ]
+    },
+    "groupId": "fab89611-d2ba-420d-91d4-c7941d076d5f",
+    "openingDate": 20200227183033,
+    "closingDate": 20200308130308,
+    "healthcarePartyId": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+    "subContacts": [
+        {
+            "status": 64,
+            "codes": [],
+            "tags": [
+                {
+                    "code": "Lettre de liaison / avis Confrère / Consœur",
+                    "type": "outgoingDocument"
+                }
+            ],
+            "services": [
+                {
+                    "serviceId": "e6667fca-7626-4efe-a45a-19b046357787"
+                }
+            ]
+        }
+    ],
+    "services": [
+        {
+            "label": "Lettre de liaison / avis Confrère / Consœur",
+            "index": 2,
+            "textIndexes": {},
+            "valueDate": 20200227183910,
+            "created": 1582825150983,
+            "modified": 1582825150983,
+            "author": "64c54543-2bba-464d-8545-432bba064db9",
+            "responsible": "0fa1c5c5-834c-4b38-a1c5-c5834cbb3842",
+            "invoicingCodes": [],
+            "codes": [],
+            "tags": [
+                {
+                    "code": "Lettre de liaison / avis Confrère / Consœur",
+                    "type": "outgoingDocument"
+                },
+                {
+                    "code": "",
+                    "type": "CD-TRANSACTION"
+                }
+            ],
+            "encryptedSelf": "yfFbnUyTWAnI+vcwgQnHDCIe0Xi/3RnLSXQq/yfxwg0lc53qHst5GisDNVnc6arckF5gwOI8Y0ftTnU2MhRMG/QufA+nF+T9C8LZX97x23UaNJbfepI7SQ7n9O0F6EW2BCBDVcCASCVEH2XSyskFs8F7CPlxgf8P3XJt1usvMzE=",
+            "_id": "e6667fca-7626-4efe-a45a-19b046357787"
+        }
+    ],
+    "java_type": "org.taktik.icure.entities.Contact",
+    "rev_history": {}
+}

@@ -1,0 +1,99 @@
+{
+    "_id": "579635eb-4bfc-4835-a8e4-898d28c40d20",
+    "_rev": "4-839305c82c35b9a829823b8bb8ebf989",
+    "created": 1586344505065,
+    "modified": 1586345027874,
+    "author": "153ac878-95b7-47c7-879b-9e5393983af2",
+    "responsible": "dec94785-636f-47c5-9b54-487bfbdb831f",
+    "codes": [],
+    "tags": [
+        {
+            "code": "1",
+            "type": "BE-CONTACT-TYPE",
+            "version": "1"
+        }
+    ],
+    "secretForeignKeys": [
+        "e84e2df1-8348-4e99-80e5-0537b5bab4f8"
+    ],
+    "cryptedForeignKeys": {
+        "dec94785-636f-47c5-9b54-487bfbdb831f": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "key": "2abac38c6275212cbd5ecb73edc1c4a22d0705f9acfab64db7dcfe4cdcf99f6dd1648e3e3905313a8d6fa7a3b4f5f179e5ac13972dc542d47e1fe2c41290ab37dbb4fc765ead6d7709fc80d70f97606343d8b90046680992b34c9fda437ab8cc"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "6f3692f1b5f2282368cb5d3dd3c41c15e12109afde3833b7070dc1f7d17a5ea7f73434cb8f1f1a3fc0f3974e8e2ba31379fa749b3a0781f3cc1c07e21581d91444beead17b0ac04a1664755b6d9fbf87f606ab7c3e048f4cb829a5537671b4f1"
+            }
+        ]
+    },
+    "delegations": {
+        "dec94785-636f-47c5-9b54-487bfbdb831f": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "key": "8eb13f19f10ceedf2e45a687dba43b94e6fa0a727a9c108d1804d22c2e0a56fd398bd8bf4faa8945f3fc38bde1c8bfc19e0b55de81d0d9ee806ff9f597afb03d22f5d95f5ab91ab7ed288ca9bf735aff87f9a5e75ac8e52fb0c159f2087f012f"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "fcac9fc434d41141bd1b7dd79a8cb234b342aed70bb5d19e3bc74ed9fb1bd83a04b30747865513b6ba734c5409529e64f755d0b26cb1a0add47a2bbc5a83b289039e0f6cd869ad144b7b2e8c8923619c16d80d8465864792d0b14305067e9701"
+            }
+        ]
+    },
+    "encryptionKeys": {
+        "dec94785-636f-47c5-9b54-487bfbdb831f": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "key": "2330642545d3f6be8c75b5532a012c41045e3d874412900ef968e65725a4c407b5b1b7ac0c0fc6d9f60f3ba3727f47b5fab030805058ac504edae9ae5033cb4ce9fa6aab20a964a08436cee172826dbf39f09bc05e7f438d345e5ed25a530377"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "dec94785-636f-47c5-9b54-487bfbdb831f",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "5cc0e74efd9c71e62226b70de6a86e4349a60f140b935b94048704a63476a77a16f4fe5d920654157d1df255095b41021ea28daff157609b2771a3cbcec943b1aa851e79846401a531e8eb4c53694a5d7d3ccd3464201a15cc3736479630857d"
+            }
+        ]
+    },
+    "encryptedSelf": "n/MDP1HmKCv7UiV0oe+T/pP8qmumERhEvPYCxN9Bk/Y=",
+    "groupId": "fed7cb70-929b-4a51-a568-bfde114b77b5",
+    "openingDate": 20200408131505,
+    "subContacts": [
+        {
+            "codes": [],
+            "tags": [],
+            "formId": "fed0d54e-a488-4815-b1a5-00354bb94c65",
+            "services": []
+        },
+        {
+            "codes": [],
+            "tags": [],
+            "formId": "443fce34-a270-45f2-8eae-6a635602dfff",
+            "services": []
+        },
+        {
+            "codes": [],
+            "tags": [],
+            "formId": "28e8dca7-bd0b-4a0f-b817-ccf3bff8e927",
+            "services": []
+        },
+        {
+            "codes": [],
+            "tags": [],
+            "formId": "c52fa9c3-edad-46b9-9907-d20018710c21",
+            "services": []
+        }
+    ],
+    "services": [],
+    "java_type": "org.taktik.icure.entities.Contact",
+    "rev_history": {}
+}
