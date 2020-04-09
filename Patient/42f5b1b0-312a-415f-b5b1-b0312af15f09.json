@@ -1,0 +1,91 @@
+{
+    "_id": "42f5b1b0-312a-415f-b5b1-b0312af15f09",
+    "_rev": "10-a971ec063e698acba201e42641d3ac7f",
+    "created": 1553979448424,
+    "modified": 1582825207136,
+    "encryptedSelf": "Pu5sbcrkJW7hjL9Am+Mj+GpleMmmNrxBxLYC46me4HZ8pAYqHd2YSoLY9l5AROSv",
+    "codes": [],
+    "tags": [],
+    "secretForeignKeys": [],
+    "cryptedForeignKeys": {},
+    "delegations": {
+        "80ae6710-356e-4605-a98c-22966139d015": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "80ae6710-356e-4605-a98c-22966139d015",
+                "key": "9976f10c024f398aa78f3e398c89d85668aa733c603bbb7a412882597f675ca7a68e51add0c5338e74a2f08d1d9c5414174136daa3a1c68dab166fa01bb7dae033769f8d7312fbf4994791f3cbba830976a85808a72af7630c7a8b338fa2e322"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "94c8ffecb29accf54e75f210e18e5ef78e895b1f551039b76d065311853c7968b7b4bd7f8b9886ea8e7a9f6e21c06ad711974de9d1cef0beb3c41662e25bdb9bb79d0504c6b73a53d6989f295158860edf8630f74519886642ccb93b551e7337"
+            }
+        ],
+        "8a199f6f-d5bb-48de-a021-a13405026ddf": []
+    },
+    "encryptionKeys": {
+        "80ae6710-356e-4605-a98c-22966139d015": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "80ae6710-356e-4605-a98c-22966139d015",
+                "key": "2cba6bb152d2225f46ea292e5611bb6600ce3788bd976475ab3e1229058e1deee2847dd76948e4f344e302af1c7d6706d55931f50a1f37eea64b109adb57a9c5b81fb708790c24ec8356685ad6bb4105c6f6b034fbcc3b5a4a587c791ad2fb26"
+            }
+        ],
+        "cbafa3bc-67d2-48dc-a806-880f745fd346": [
+            {
+                "owner": "80ae6710-356e-4605-a98c-22966139d015",
+                "delegatedTo": "cbafa3bc-67d2-48dc-a806-880f745fd346",
+                "key": "78742035596466debdb6064c513c28290e6f717a55a7a38b0d0ce711ce9385ed1fe3dc4df62cb20d2dc4a0b00c6c82a8694f01c8fb1eed7e93d550909810c1371fdb610912ccb387d663e19433d4ca4891ca1827d1943a4fcbf0fedf68dfedf7"
+            }
+        ]
+    },
+    "mergedIds": [],
+    "nonDuplicateIds": [],
+    "encryptedAdministrativesDocuments": [],
+    "firstName": "Laurent",
+    "lastName": "VOISOT",
+    "active": false,
+    "deactivationReason": "none",
+    "ssin": "",
+    "gender": "male",
+    "personalStatus": "unknown",
+    "dateOfBirth": 19861017,
+    "preferredUserId": "5acd4a7a-9806-4e48-95c0-88d3fac8e06e",
+    "addresses": [
+        {
+            "addressType": "home",
+            "street": "sur les waides ",
+            "houseNumber": "33",
+            "postalCode": "4608 ",
+            "city": "dalhem",
+            "telecoms": [
+                {
+                    "telecomType": "mobile",
+                    "telecomNumber": "+32472851845"
+                },
+                {
+                    "telecomType": "email",
+                    "telecomNumber": "laurent.voisot@gmail.com"
+                }
+            ]
+        }
+    ],
+    "insurabilities": [],
+    "languages": [
+        "fr"
+    ],
+    "partnerships": [],
+    "patientHealthCareParties": [],
+    "financialInstitutionInformation": [],
+    "medicalHouseContracts": [],
+    "parameters": {},
+    "patientProfessions": [],
+    "hcPartyKeys": {},
+    "schoolingInfos": [],
+    "employementInfos": [],
+    "properties": [],
+    "java_type": "org.taktik.icure.entities.Patient",
+    "rev_history": {}
+}
